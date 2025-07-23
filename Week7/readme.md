@@ -1,4 +1,4 @@
-## 📝 This Week’s Task
+## 📝  Week 7 Task
 
 ### Main Assignment
 

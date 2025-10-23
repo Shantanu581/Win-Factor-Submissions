@@ -1,4 +1,4 @@
-## 📝 Week 8 Task
+## 📝 Week 8 Task (Final Project Implemented)
 
 ### Main Assignment
 
